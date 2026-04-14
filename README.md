@@ -39,13 +39,14 @@ Bias–Variance Tradeoff
 
 
 📂 Project Structure
+
 ├── notebooks/
 
-│   └── machine_learning_projects.ipynb
+   └── machine_learning_projects.ipynb
 
 ├── datasets/
 
-│   └── student_pass_fail.csv
+   └── student_pass_fail.csv
 
 ├── README.md
 
